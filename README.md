@@ -3,6 +3,9 @@ A simple, beautiful Weather App that allows users to search for the current weat
 Built with HTML, CSS, and JavaScript, fetching live data from the OpenWeatherMap API.
 
 
+![App Screenshot](./weather_app.jpeg)
+
+
 ## ✨ Features
 🔎 Search weather by city name  
 📈 Display temperature, weather condition, and an icon
