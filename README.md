@@ -5,6 +5,9 @@ The app uses the **OpenWeatherMap API** and features a clean UI with smooth UX i
 
 ---
 
+## Live Link : https://khushbu-weather-app.netlify.app/
+
+
 ## ✨ Features
 
 - 🔍 Search weather by city name  
